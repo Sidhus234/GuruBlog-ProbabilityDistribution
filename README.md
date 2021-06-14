@@ -8,6 +8,38 @@ The project covers basics of different probability distributions commonly used i
 <li>Simulation studies with random numbers generated from using a specific probability distribution are often needed.</li>
 </ol>
 
+## Blog Post
+The blog post can be found [here](https://apedatascientist.com/2021/05/27/probability-distributions/)
+
 ## Cloning the Repo
 - HTTPS: git clone https://github.com/Sidhus234/GuruBlog-ProbabilityDistribution.git
-- GitHub CLI: gh repo clone Sidhus234/GuruBlog-ProbabilityDistribution 
+- GitHub CLI: gh repo clone Sidhus234/GuruBlog-ProbabilityDistribution
+
+### Different Probability Distributions covered are:
+<ol>
+  <li>Continuous Distribution
+    <ol>
+      <li>Normal Distribution</li>
+      <li>Uniform Distribution</li>
+      <li>Cauchy Distribution</li>
+      <li>t Distribution</li>
+      <li>F Distribution</li>
+      <li>Chi square Distribution</li>
+      <li>Exponential Distribution</li>
+      <li>Weibull Distribution</li>
+      <li>Lognormal Distribution</li>
+      <li>Birnbaum-Saunders (Fatigue Life) Distribution</li>
+      <li>Gamma Distribution</li>
+      <li>Double Exponential Distribution</li>
+      <li>Power Normal Distribution</li>
+      <li>Powerlog Normal Distribution</li>
+      <li>Turkey Lambda Distribution</li>
+      <li>Extreme Value Type I Distribution</li>
+      <li>Beta Distribution</li>
+    </ol></li>
+  <li>Discrete Distribution
+    <ol>
+      <li>Binomial Distribution</li>
+      <li>Poisson Distribution</li>
+    </ol></li>
+  </ol>
